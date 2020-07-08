@@ -1,6 +1,6 @@
 arch:
   - amd64
-  - arm64
+  - arm64-graviton
   - ppc64le
 
 env: 

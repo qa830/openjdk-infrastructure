@@ -11,6 +11,8 @@ os:
 
 dist: focal
 
+virt: lxd
+group: edge
 install: skip
 
 script:
